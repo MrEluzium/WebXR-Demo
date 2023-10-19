@@ -140,8 +140,8 @@ PlayerSettings:
   - {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874, type: 2}
   - {fileID: -7361376646347763491, guid: 58f40b12bbc864f3c96c6505a9a1e1e3, type: 2}
   - {fileID: 11400000, guid: 6a8f8b023810318468ea9b351a155a13, type: 2}
-  - {fileID: 11400000, guid: aefd4cbf1899e5e4c847428e42bd27c3, type: 2}
   - {fileID: 1578640738286916485, guid: 6bb381a8ba31f114d9724357633b4625, type: 2}
+  - {fileID: 11400000, guid: aefd4cbf1899e5e4c847428e42bd27c3, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -657,7 +657,7 @@ PlayerSettings:
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
-  webGLDecompressionFallback: 0
+  webGLDecompressionFallback: 1
   webGLInitialMemorySize: 32
   webGLMaximumMemorySize: 2048
   webGLMemoryGrowthMode: 2
